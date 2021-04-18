@@ -12,7 +12,7 @@ leetcode repo
 - [0041_firstMissingPositive](https://leetcode-cn.com/problems/first-missing-positive/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0041_firstMissingPositive.cpp)
 
 ## Binary Search
-- [0004_findMedianSortedArrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) - [SLN] (https://github.com/linhx25/leetcode/blob/main/cpp/0004_findMedianSortedArrays.cpp)
+- [0004_findMedianSortedArrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0004_findMedianSortedArrays.cpp)
 - [0033_search](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0033_search.cpp)
 - [0034_searchRange](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0034_searchRange.cpp)
 - [0035_searchInsert](https://leetcode-cn.com/problems/search-insert-position/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0035_searchInsert.cpp)
