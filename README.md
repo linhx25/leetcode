@@ -4,8 +4,12 @@ leetcode repo
 ## Tree
 - [0094_inorderTraversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0094_inorderTraversal.cpp)
 - [0102_levelOrder](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0102_levelOrder.cpp)
+- [0104_maxDepth](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0104_maxDepth.cpp)
+- [0110_isBalanced](https://leetcode-cn.com/problems/balanced-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0110_isBalanced.cpp)
+- [0129_sumNumbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0129_sumNumbers.cpp)
 - [0144_preorderTraversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0144_preorderTraversal.cpp)
 - [0145_postorderTraversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0145_postorderTraversal.cpp)
+- [0662_widthOfBinaryTree](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0662_widthOfBinaryTree.cpp)
 
 ## Hash
 - [0001_twoSum](https://leetcode-cn.com/problems/two-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0001_twoSum.cpp)
