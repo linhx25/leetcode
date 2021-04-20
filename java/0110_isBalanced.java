@@ -23,8 +23,8 @@ class Solution {
     {
         if(root==null)
             return 0;
-        var left = traverse(root.left,++depth,diff);
-        var right = traverse(root.right,++depth,diff);
+        var left = traverse(root.left,depth+1,diff);
+        var right = traverse(root.right,depth+1,diff);
         diff[0] = Math.max(diff[0],Math.abs(left-right));
         return 1+Math.max(left,right);
     }

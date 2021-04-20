@@ -4,11 +4,15 @@ leetcode repo
 ## Tree
 - [0094_inorderTraversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0094_inorderTraversal.cpp)
 - [0102_levelOrder](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0102_levelOrder.cpp)
+- [0103_zigzagLevelOrder](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0103_zigzagLevelOrder.cpp)
 - [0104_maxDepth](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0104_maxDepth.cpp)
+- [0107_levelOrderBottom](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0107_levelOrderBottom.cpp)
 - [0110_isBalanced](https://leetcode-cn.com/problems/balanced-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0110_isBalanced.cpp)
+- [0111_minDepth](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0111_minDepth.cpp)
 - [0129_sumNumbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0129_sumNumbers.cpp)
 - [0144_preorderTraversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0144_preorderTraversal.cpp)
 - [0145_postorderTraversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0145_postorderTraversal.cpp)
+- [0637_averageOfLevels](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0637_averageOfLevels.cpp)
 - [0662_widthOfBinaryTree](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0662_widthOfBinaryTree.cpp)
 
 ## Hash

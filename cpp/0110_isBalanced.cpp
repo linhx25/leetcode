@@ -21,8 +21,8 @@ public:
     {
         if(root==nullptr)
             return 0;
-        int left = traverse(root->left,++depth,diff);
-        int right = traverse(root->right,++depth,diff);
+        int left = traverse(root->left,depth+1,diff);
+        int right = traverse(root->right,depth+1,diff);
         diff = max(diff,abs(left-right));
         return 1 + max(left,right);
     }
