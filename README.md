@@ -40,6 +40,7 @@ leetcode repo
 ### Sliding Window
 - [offer057_findContinuousSequence](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/offer057_findContinuousSequence.cpp)
 - [0159_lengthOfLongestSubstringTwoDistinct](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0159_lengthOfLongestSubstringTwoDistinct.cpp)
+- [1004_longestOnes](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1004_longestOnes.cpp)
 
 ## Dynamic Programming
 - [0053_maxSubArray](https://leetcode-cn.com/problems/maximum-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0053_maxSubArray.cpp)
