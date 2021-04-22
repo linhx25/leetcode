@@ -15,7 +15,7 @@ public:
     bool isBalanced(TreeNode* root) {
         int diff = 0;
         traverse(root,0,diff);
-        return diff>1?false:true;
+        return diff<=1;
     }
     int traverse(TreeNode* root,int depth, int &diff)
     {

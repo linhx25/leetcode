@@ -17,7 +17,7 @@ class Solution {
     public boolean isBalanced(TreeNode root) {
         int[] diff = {0};
         traverse(root,0,diff);
-        return diff[0]>1?false:true;
+        return diff[0]<=1;
     }
     public int traverse(TreeNode root, int depth, int[] diff)
     {

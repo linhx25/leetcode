@@ -26,12 +26,23 @@ leetcode repo
 - [0035_searchInsert](https://leetcode-cn.com/problems/search-insert-position/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0035_searchInsert.cpp)
 
 ## Two Pointers
+### Shrink
 - [0011_maxArea](https://leetcode-cn.com/problems/container-with-most-water/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0011_maxArea.cpp)
 - [0015_threeSum](https://leetcode-cn.com/problems/3sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0015_threeSum.cpp)
 - [0016_threeSumClosest](https://leetcode-cn.com/problems/3sum-closest/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0016_threeSumClosest.cpp)
 - [0018_fourSum](https://leetcode-cn.com/problems/4sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0018_fourSum.cpp)
+
+### Fast & Slow
 - [0026_removeDuplicates](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0007_removeDuplicates.cpp)
 - [0027_removeElement](https://leetcode-cn.com/problems/remove-element/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0008_removeElement.cpp)
+- [0283_moveZeroes](https://leetcode-cn.com/problems/move-zeroes/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0283_moveZeroes.cpp)
+
+### Sliding Window
+- [offer057_findContinuousSequence](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/offer057_findContinuousSequence.cpp)
+- [0159_lengthOfLongestSubstringTwoDistinct](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0159_lengthOfLongestSubstringTwoDistinct.cpp)
+
+## Dynamic Programming
+- [0053_maxSubArray](https://leetcode-cn.com/problems/maximum-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0053_maxSubArray.cpp)
 
 ## Sort
 - [0031_nextPermutation](https://leetcode-cn.com/problems/next-permutation/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0031_nextPermutation.cpp)
