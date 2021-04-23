@@ -35,10 +35,14 @@ leetcode repo
 ### Fast & Slow
 - [0026_removeDuplicates](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0007_removeDuplicates.cpp)
 - [0027_removeElement](https://leetcode-cn.com/problems/remove-element/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0008_removeElement.cpp)
+- [0141_hasCycle](https://leetcode-cn.com/problems/linked-list-cycle/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0141_hasCycle.cpp)
+- [0142_detectCycle](https://leetcode-cn.com/problems/linked-list-cycle-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0142_detectCycle.cpp)
 - [0283_moveZeroes](https://leetcode-cn.com/problems/move-zeroes/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0283_moveZeroes.cpp)
+- [0287_findDuplicate](https://leetcode-cn.com/problems/find-the-duplicate-number/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0287_findDuplicate.cpp)
 
 ### Sliding Window
 - [offer057_findContinuousSequence](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/offer057_findContinuousSequence.cpp)
+- [0019_removeNthFromEnd](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0019_removeNthFromEnd.cpp)
 - [0159_lengthOfLongestSubstringTwoDistinct](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0159_lengthOfLongestSubstringTwoDistinct.cpp)
 - [0424_characterReplacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0424_characterReplacements.cpp)
 - [0567_checkInclusion](https://leetcode-cn.com/problems/permutation-in-string/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0567_checkInclusion.cpp)
