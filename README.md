@@ -39,6 +39,7 @@ leetcode repo
 - [0142_detectCycle](https://leetcode-cn.com/problems/linked-list-cycle-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0142_detectCycle.cpp)
 - [0283_moveZeroes](https://leetcode-cn.com/problems/move-zeroes/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0283_moveZeroes.cpp)
 - [0287_findDuplicate](https://leetcode-cn.com/problems/find-the-duplicate-number/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0287_findDuplicate.cpp)
+- [0876_middleNode](https://leetcode-cn.com/problems/middle-of-the-linked-list/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0876_middleNode.cpp)
 
 ### Sliding Window
 - [offer057_findContinuousSequence](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/offer057_findContinuousSequence.cpp)
@@ -54,5 +55,6 @@ leetcode repo
 
 ## Sort
 - [0031_nextPermutation](https://leetcode-cn.com/problems/next-permutation/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0031_nextPermutation.cpp)
-
+- [0912_quickSort](https://leetcode-cn.com/problems/sort-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0912_quickSort.cpp)
+- [0912_mergeSort](https://leetcode-cn.com/problems/sort-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0912_mergeSort.cpp)
 
