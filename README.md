@@ -13,8 +13,10 @@ leetcode repo
 - [0129_sumNumbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0129_sumNumbers.cpp)
 - [0144_preorderTraversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0144_preorderTraversal.cpp)
 - [0145_postorderTraversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0145_postorderTraversal.cpp)
+- [0450_deleteNode](https://leetcode-cn.com/problems/delete-node-in-a-bst/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0450_deleteNode.cpp)
 - [0637_averageOfLevels](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0637_averageOfLevels.cpp)
 - [0662_widthOfBinaryTree](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0662_widthOfBinaryTree.cpp)
+- [0701_insertIntoBST](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0701_insertIntoBST.cpp)
 
 ## Hash
 - [0001_twoSum](https://leetcode-cn.com/problems/two-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0001_twoSum.cpp)
