@@ -63,3 +63,10 @@ leetcode repo
 - [0912_quickSort](https://leetcode-cn.com/problems/sort-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0912_quickSort.cpp)
 - [0912_mergeSort](https://leetcode-cn.com/problems/sort-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0912_mergeSort.cpp)
 
+## Greedy
+- [0055_canJump](https://leetcode-cn.com/problems/jump-game/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0055_canJump.cpp)
+- [0122_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0122_maxProfit.cpp)
+
+## Array
+- [0189_rotate](https://leetcode-cn.com/problems/rotate-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0189_rotate.cpp)
+- [0238_productExceptSelf](https://leetcode-cn.com/problems/product-of-array-except-self/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0238_productExceptSelf.cpp)
