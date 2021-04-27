@@ -49,6 +49,7 @@ leetcode repo
 
 ### Sliding Window
 - [offer057_findContinuousSequence](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/offer057_findContinuousSequence.cpp)
+- [0003_lengthOfLongestSubstring](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0003_lengthOfLongestSubstring.cpp)
 - [0019_removeNthFromEnd](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0019_removeNthFromEnd.cpp)
 - [0159_lengthOfLongestSubstringTwoDistinct](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0159_lengthOfLongestSubstringTwoDistinct.cpp)
 - [0424_characterReplacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0424_characterReplacements.cpp)
