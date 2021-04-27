@@ -23,6 +23,7 @@ leetcode repo
 ## Hash
 - [0001_twoSum](https://leetcode-cn.com/problems/two-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0001_twoSum.cpp)
 - [0041_firstMissingPositive](https://leetcode-cn.com/problems/first-missing-positive/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0041_firstMissingPositive.cpp)
+- [0448_findDisappearedNumbers](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0448_findDisappearedNumbers.cpp)
 
 ## Binary Search
 - [0004_findMedianSortedArrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0004_findMedianSortedArrays.cpp)
