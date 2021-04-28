@@ -76,3 +76,7 @@ leetcode repo
 ## LinkedList
 - [0002_addTwoNumbers](https://leetcode-cn.com/problems/add-two-numbers/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0002_addTwoNumbers.cpp)
 - [0021_mergeTwoLists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0021_mergeTwoLists.cpp)
+- [0061_rotateRight](https://leetcode-cn.com/problems/rotate-list/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0061_rotateRight.cpp)
+- [0160_getIntersectionNode](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0160_getIntersectionNode.cpp)
+- [0206_reverseList](https://leetcode-cn.com/problems/reverse-linked-list/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0206_reverseList.cpp)
+- [0234_isPalindrome](https://leetcode-cn.com/problems/palindrome-linked-list/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0234_isPalindrome.cpp)
