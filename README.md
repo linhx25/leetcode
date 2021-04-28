@@ -72,3 +72,7 @@ leetcode repo
 ## Array
 - [0189_rotate](https://leetcode-cn.com/problems/rotate-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0189_rotate.cpp)
 - [0238_productExceptSelf](https://leetcode-cn.com/problems/product-of-array-except-self/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0238_productExceptSelf.cpp)
+
+## LinkedList
+- [0002_addTwoNumbers](https://leetcode-cn.com/problems/add-two-numbers/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0002_addTwoNumbers.cpp)
+- [0021_mergeTwoLists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0021_mergeTwoLists.cpp)
