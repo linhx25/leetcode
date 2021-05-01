@@ -57,6 +57,7 @@ leetcode repo
 - [1438_longestSubarray](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1438_longestSubarray.cpp)
 
 ## Dynamic Programming
+- [0005_longestPalindrome](https://leetcode-cn.com/problems/longest-palindromic-substring/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0005_longestPalindrome.cpp)
 - [0053_maxSubArray](https://leetcode-cn.com/problems/maximum-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0053_maxSubArray.cpp)
 
 ## Sort
