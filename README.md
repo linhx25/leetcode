@@ -59,6 +59,7 @@ leetcode repo
 ## Dynamic Programming
 - [0005_longestPalindrome](https://leetcode-cn.com/problems/longest-palindromic-substring/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0005_longestPalindrome.cpp)
 - [0053_maxSubArray](https://leetcode-cn.com/problems/maximum-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0053_maxSubArray.cpp)
+- [0070_climbStairs](https://leetcode-cn.com/problems/climbing-stairs/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0070_climbStairs.cpp)
 
 ## Sort
 - [0031_nextPermutation](https://leetcode-cn.com/problems/next-permutation/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0031_nextPermutation.cpp)
@@ -70,6 +71,7 @@ leetcode repo
 - [0122_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0122_maxProfit.cpp)
 
 ## Array
+- [0169_majorityElement](https://leetcode-cn.com/problems/majority-element/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0169_majorityElement.cpp)
 - [0189_rotate](https://leetcode-cn.com/problems/rotate-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0189_rotate.cpp)
 - [0238_productExceptSelf](https://leetcode-cn.com/problems/product-of-array-except-self/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0238_productExceptSelf.cpp)
 
