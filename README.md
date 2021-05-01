@@ -84,3 +84,4 @@ leetcode repo
 ## String
 - [0003_lengthOfLongestSubstring](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0003_lengthOfLongestSubstring.cpp)
 - [0020_isValid](https://leetcode-cn.com/problems/valid-parentheses/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0020_isValid.cpp)
+- [0022_generateParenthesis](https://leetcode-cn.com/problems/generate-parentheses/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0022_generateParenthesis.cpp)
