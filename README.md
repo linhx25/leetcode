@@ -60,6 +60,7 @@ leetcode repo
 - [0005_longestPalindrome](https://leetcode-cn.com/problems/longest-palindromic-substring/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0005_longestPalindrome.cpp)
 - [0053_maxSubArray](https://leetcode-cn.com/problems/maximum-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0053_maxSubArray.cpp)
 - [0070_climbStairs](https://leetcode-cn.com/problems/climbing-stairs/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0070_climbStairs.cpp)
+- [0121_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0121_maxProfit.cpp)
 
 ## Sort
 - [0031_nextPermutation](https://leetcode-cn.com/problems/next-permutation/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0031_nextPermutation.cpp)
