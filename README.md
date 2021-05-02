@@ -60,7 +60,12 @@ leetcode repo
 - [0005_longestPalindrome](https://leetcode-cn.com/problems/longest-palindromic-substring/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0005_longestPalindrome.cpp)
 - [0053_maxSubArray](https://leetcode-cn.com/problems/maximum-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0053_maxSubArray.cpp)
 - [0070_climbStairs](https://leetcode-cn.com/problems/climbing-stairs/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0070_climbStairs.cpp)
-- [0121_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0121_maxProfit.cpp)
+- [0152_maxProduct](https://leetcode-cn.com/problems/maximum-product-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0152_maxProduct.cpp)
+- [0198_rob](https://leetcode-cn.com/problems/house-robber/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0198_rob.cpp)
+- [0494_findTargetSumWays](https://leetcode-cn.com/problems/target-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0494_findTargetSumWays.cpp)
+
+## Backtrack
+- [0046_permute](https://leetcode-cn.com/problems/permutations/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0046_permute.cpp)
 
 ## Sort
 - [0031_nextPermutation](https://leetcode-cn.com/problems/next-permutation/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0031_nextPermutation.cpp)
@@ -72,6 +77,7 @@ leetcode repo
 - [0122_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0122_maxProfit.cpp)
 
 ## Array
+- [0121_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0121_maxProfit.cpp)
 - [0169_majorityElement](https://leetcode-cn.com/problems/majority-element/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0169_majorityElement.cpp)
 - [0189_rotate](https://leetcode-cn.com/problems/rotate-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0189_rotate.cpp)
 - [0238_productExceptSelf](https://leetcode-cn.com/problems/product-of-array-except-self/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0238_productExceptSelf.cpp)
