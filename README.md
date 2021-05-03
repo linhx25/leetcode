@@ -61,9 +61,12 @@ leetcode repo
 - [0053_maxSubArray](https://leetcode-cn.com/problems/maximum-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0053_maxSubArray.cpp)
 - [0064_minPathSum](https://leetcode-cn.com/problems/minimum-path-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0064_minPathSum.cpp)
 - [0070_climbStairs](https://leetcode-cn.com/problems/climbing-stairs/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0070_climbStairs.cpp)
+- [0120_minimumTotal](https://leetcode-cn.com/problems/triangle/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0120_minimumTotal.cpp)
+- [0123_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0123_maxProfit.cpp)
 - [0152_maxProduct](https://leetcode-cn.com/problems/maximum-product-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0152_maxProduct.cpp)
 - [0198_rob](https://leetcode-cn.com/problems/house-robber/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0198_rob.cpp)
 - [0494_findTargetSumWays](https://leetcode-cn.com/problems/target-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0494_findTargetSumWays.cpp)
+- [1143_longestCommonSubsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1143_longestCommonSubsequence.cpp)
 
 ## Backtrack
 - [0046_permute](https://leetcode-cn.com/problems/permutations/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0046_permute.cpp)
