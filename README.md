@@ -61,6 +61,7 @@ leetcode repo
 - [0053_maxSubArray](https://leetcode-cn.com/problems/maximum-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0053_maxSubArray.cpp)
 - [0064_minPathSum](https://leetcode-cn.com/problems/minimum-path-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0064_minPathSum.cpp)
 - [0070_climbStairs](https://leetcode-cn.com/problems/climbing-stairs/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0070_climbStairs.cpp)
+- [0118_generate](https://leetcode-cn.com/problems/pascals-triangle/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0118_generate.cpp)
 - [0120_minimumTotal](https://leetcode-cn.com/problems/triangle/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0120_minimumTotal.cpp)
 - [0123_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0123_maxProfit.cpp)
 - [0152_maxProduct](https://leetcode-cn.com/problems/maximum-product-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0152_maxProduct.cpp)
@@ -100,3 +101,6 @@ leetcode repo
 - [0003_lengthOfLongestSubstring](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0003_lengthOfLongestSubstring.cpp)
 - [0020_isValid](https://leetcode-cn.com/problems/valid-parentheses/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0020_isValid.cpp)
 - [0022_generateParenthesis](https://leetcode-cn.com/problems/generate-parentheses/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0022_generateParenthesis.cpp)
+
+## Math
+- [0062_uniquePaths](https://leetcode-cn.com/problems/unique-paths/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0062_uniquePaths.cpp)
