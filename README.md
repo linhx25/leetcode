@@ -65,7 +65,9 @@ leetcode repo
 - [0123_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0123_maxProfit.cpp)
 - [0152_maxProduct](https://leetcode-cn.com/problems/maximum-product-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0152_maxProduct.cpp)
 - [0198_rob](https://leetcode-cn.com/problems/house-robber/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0198_rob.cpp)
+- [0300_lengthOfLIS](https://leetcode-cn.com/problems/longest-increasing-subsequence/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0300_lengthOfLIS.cpp)
 - [0494_findTargetSumWays](https://leetcode-cn.com/problems/target-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0494_findTargetSumWays.cpp)
+- [0746_minCostClimbingStairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0746_minCostClimbingStairs.cpp)
 - [1143_longestCommonSubsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1143_longestCommonSubsequence.cpp)
 
 ## Backtrack
