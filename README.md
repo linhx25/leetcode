@@ -104,3 +104,4 @@ leetcode repo
 
 ## Math
 - [0062_uniquePaths](https://leetcode-cn.com/problems/unique-paths/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0062_uniquePaths.cpp)
+- [0119_getRow](https://leetcode-cn.com/problems/pascals-triangle-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0119_getRow.cpp)
