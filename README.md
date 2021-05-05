@@ -74,6 +74,7 @@ leetcode repo
 - [1143_longestCommonSubsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1143_longestCommonSubsequence.cpp)
 
 ## Backtrack
+- [0039_combinationSum](https://leetcode-cn.com/problems/combination-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0039_combinationSum.cpp)
 - [0046_permute](https://leetcode-cn.com/problems/permutations/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0046_permute.cpp)
 
 ## Sort
@@ -105,5 +106,6 @@ leetcode repo
 - [0022_generateParenthesis](https://leetcode-cn.com/problems/generate-parentheses/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0022_generateParenthesis.cpp)
 
 ## Math
+- [0009_isPalindrome](https://leetcode-cn.com/problems/palindrome-number/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0009_isPalindrome.cpp)
 - [0062_uniquePaths](https://leetcode-cn.com/problems/unique-paths/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0062_uniquePaths.cpp)
 - [0119_getRow](https://leetcode-cn.com/problems/pascals-triangle-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0119_getRow.cpp)
