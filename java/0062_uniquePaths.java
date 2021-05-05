@@ -3,9 +3,9 @@ class Solution {
         long res =1;
         if(n<m)
         {
-            int tmp =m;
-            m=n;
-            n=tmp;
+            m = m^n;
+            n = m^n;
+            m = m^n;    
         }
         for(int i=n,j=1;j<m;i++,j++)
             res = res*i/j;
