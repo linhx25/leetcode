@@ -69,6 +69,7 @@ leetcode repo
 - [0300_lengthOfLIS](https://leetcode-cn.com/problems/longest-increasing-subsequence/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0300_lengthOfLIS.cpp)
 - [0309_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0309_maxProfit.cpp)
 - [0494_findTargetSumWays](https://leetcode-cn.com/problems/target-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0494_findTargetSumWays.cpp)
+- [0714_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0714_maxProfit.cpp)
 - [0746_minCostClimbingStairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0746_minCostClimbingStairs.cpp)
 - [1143_longestCommonSubsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1143_longestCommonSubsequence.cpp)
 
