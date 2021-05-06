@@ -75,7 +75,11 @@ leetcode repo
 
 ## Backtrack
 - [0039_combinationSum](https://leetcode-cn.com/problems/combination-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0039_combinationSum.cpp)
+- [0040_combinationSum2](https://leetcode-cn.com/problems/combination-sum-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0040_combinationSum2.cpp)
 - [0046_permute](https://leetcode-cn.com/problems/permutations/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0046_permute.cpp)
+- [0047_permuteUnique](https://leetcode-cn.com/problems/permutations-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0047_permuteUnique.cpp)
+- [0078_subsets](https://leetcode-cn.com/problems/subsets/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0078_subsets.cpp)
+- [0216_combinationSum3](https://leetcode-cn.com/problems/combination-sum-iii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0216_combinationSum3.cpp)
 
 ## Sort
 - [0031_nextPermutation](https://leetcode-cn.com/problems/next-permutation/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0031_nextPermutation.cpp)
