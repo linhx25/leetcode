@@ -68,6 +68,7 @@ leetcode repo
 - [0198_rob](https://leetcode-cn.com/problems/house-robber/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0198_rob.cpp)
 - [0300_lengthOfLIS](https://leetcode-cn.com/problems/longest-increasing-subsequence/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0300_lengthOfLIS.cpp)
 - [0309_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0309_maxProfit.cpp)
+- [0322_coinChange](https://leetcode-cn.com/problems/coin-change/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0322_coinChange.cpp)
 - [0494_findTargetSumWays](https://leetcode-cn.com/problems/target-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0494_findTargetSumWays.cpp)
 - [0714_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0714_maxProfit.cpp)
 - [0746_minCostClimbingStairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0746_minCostClimbingStairs.cpp)
@@ -78,7 +79,9 @@ leetcode repo
 - [0040_combinationSum2](https://leetcode-cn.com/problems/combination-sum-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0040_combinationSum2.cpp)
 - [0046_permute](https://leetcode-cn.com/problems/permutations/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0046_permute.cpp)
 - [0047_permuteUnique](https://leetcode-cn.com/problems/permutations-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0047_permuteUnique.cpp)
+- [0077_combine](https://leetcode-cn.com/problems/combinations/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0077_combine.cpp)
 - [0078_subsets](https://leetcode-cn.com/problems/subsets/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0078_subsets.cpp)
+- [0090_subsetsWithDup](https://leetcode-cn.com/problems/subsets-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0090_subsetsWithDup.cpp)
 - [0216_combinationSum3](https://leetcode-cn.com/problems/combination-sum-iii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0216_combinationSum3.cpp)
 
 ## Sort
@@ -113,3 +116,4 @@ leetcode repo
 - [0009_isPalindrome](https://leetcode-cn.com/problems/palindrome-number/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0009_isPalindrome.cpp)
 - [0062_uniquePaths](https://leetcode-cn.com/problems/unique-paths/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0062_uniquePaths.cpp)
 - [0119_getRow](https://leetcode-cn.com/problems/pascals-triangle-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0119_getRow.cpp)
+- [1486_xorOperation](https://leetcode-cn.com/problems/xor-operation-in-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1486_xorOperation.cpp)

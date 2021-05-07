@@ -11,14 +11,12 @@ public:
     }
     void backtrack(vector<int>&nums, vector<vector<int>> &res, int pos, vector<int> &comb)
     {
-        if(pos==nums.size())
+        res.push_back(comb);
+        for(int i=pos;i<nums.size();i++)
         {
-            res.push_back(comb);
-            return;
+            comb.push_back(nums[i]);
+            backtrack(nums,res,i+1,comb);
+            comb.pop_back();
         }
-        comb.push_back(nums[pos]);
-        backtrack(nums,res,pos+1,comb);//选取这个元素
-        comb.pop_back();
-        backtrack(nums,res,pos+1,comb);//不选取这个元素
     }
 };
