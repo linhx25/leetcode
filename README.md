@@ -93,6 +93,9 @@ leetcode repo
 - [0055_canJump](https://leetcode-cn.com/problems/jump-game/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0055_canJump.cpp)
 - [0122_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0122_maxProfit.cpp)
 
+## Heap
+- [0295_MedianFinder](https://leetcode-cn.com/problems/find-median-from-data-stream/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0295_MedianFinder.cpp)
+
 ## Array
 - [0121_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0121_maxProfit.cpp)
 - [0169_majorityElement](https://leetcode-cn.com/problems/majority-element/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0169_majorityElement.cpp)
