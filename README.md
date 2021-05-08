@@ -94,6 +94,7 @@ leetcode repo
 - [0122_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0122_maxProfit.cpp)
 
 ## Heap
+- [0239_maxSlidingWindow](https://leetcode-cn.com/problems/sliding-window-maximum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0239_maxSlidingWindow.cpp)
 - [0295_MedianFinder](https://leetcode-cn.com/problems/find-median-from-data-stream/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0295_MedianFinder.cpp)
 
 ## Array
