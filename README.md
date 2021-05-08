@@ -113,11 +113,13 @@ leetcode repo
 
 ## String
 - [0003_lengthOfLongestSubstring](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0003_lengthOfLongestSubstring.cpp)
+- [0014_longestCommonPrefix](https://leetcode-cn.com/problems/longest-common-prefix/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0014_longestCommonPrefix.cpp)
 - [0020_isValid](https://leetcode-cn.com/problems/valid-parentheses/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0020_isValid.cpp)
 - [0022_generateParenthesis](https://leetcode-cn.com/problems/generate-parentheses/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0022_generateParenthesis.cpp)
 
 ## Math
 - [0009_isPalindrome](https://leetcode-cn.com/problems/palindrome-number/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0009_isPalindrome.cpp)
+- [0013_romanToInt](https://leetcode-cn.com/problems/roman-to-integer/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0013_romanToInt.cpp)
 - [0062_uniquePaths](https://leetcode-cn.com/problems/unique-paths/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0062_uniquePaths.cpp)
 - [0119_getRow](https://leetcode-cn.com/problems/pascals-triangle-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0119_getRow.cpp)
 - [1486_xorOperation](https://leetcode-cn.com/problems/xor-operation-in-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1486_xorOperation.cpp)
