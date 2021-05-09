@@ -20,16 +20,19 @@ leetcode repo
 - [0662_widthOfBinaryTree](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0662_widthOfBinaryTree.cpp)
 - [0701_insertIntoBST](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0701_insertIntoBST.cpp)
 
-## Hash
+## Hash(Dictionary)
 - [0001_twoSum](https://leetcode-cn.com/problems/two-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0001_twoSum.cpp)
 - [0041_firstMissingPositive](https://leetcode-cn.com/problems/first-missing-positive/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0041_firstMissingPositive.cpp)
 - [0448_findDisappearedNumbers](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0448_findDisappearedNumbers.cpp)
+- [0697_findShortestSubArray](https://leetcode-cn.com/problems/degree-of-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0697_findShortestSubArray.cpp)
 
 ## Binary Search
 - [0004_findMedianSortedArrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0004_findMedianSortedArrays.cpp)
 - [0033_search](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0033_search.cpp)
 - [0034_searchRange](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0034_searchRange.cpp)
 - [0035_searchInsert](https://leetcode-cn.com/problems/search-insert-position/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0035_searchInsert.cpp)
+- [0540_singleNonDuplicate](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0540_singleNonDuplicate.cpp)
+- [0704_search](https://leetcode-cn.com/problems/binary-search/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0704_search.cpp)
 
 ## Two Pointers
 ### Shrink
