@@ -53,6 +53,7 @@ leetcode repo
 - [0159_lengthOfLongestSubstringTwoDistinct](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0159_lengthOfLongestSubstringTwoDistinct.cpp)
 - [0424_characterReplacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0424_characterReplacements.cpp)
 - [0567_checkInclusion](https://leetcode-cn.com/problems/permutation-in-string/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0567_checkInclusion.cpp)
+- [0978_maxTurbulenceSize](https://leetcode-cn.com/problems/longest-turbulent-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0978_maxTurbulenceSize.cpp)
 - [1004_longestOnes](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1004_longestOnes.cpp)
 - [1438_longestSubarray](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1438_longestSubarray.cpp)
 
