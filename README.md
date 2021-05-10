@@ -19,6 +19,7 @@ leetcode repo
 - [0637_averageOfLevels](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0637_averageOfLevels.cpp)
 - [0662_widthOfBinaryTree](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0662_widthOfBinaryTree.cpp)
 - [0701_insertIntoBST](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0701_insertIntoBST.cpp)
+- [0872_leafSimilar](https://leetcode-cn.com/problems/leaf-similar-trees/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0872_leafSimilar.cpp)
 
 ## Hash(Dictionary)
 - [0001_twoSum](https://leetcode-cn.com/problems/two-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0001_twoSum.cpp)
@@ -79,6 +80,7 @@ leetcode repo
 - [1143_longestCommonSubsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1143_longestCommonSubsequence.cpp)
 
 ## Backtrack
+- [0017_letterCombinations](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0017_letterCombinations.cpp)
 - [0039_combinationSum](https://leetcode-cn.com/problems/combination-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0039_combinationSum.cpp)
 - [0040_combinationSum2](https://leetcode-cn.com/problems/combination-sum-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0040_combinationSum2.cpp)
 - [0046_permute](https://leetcode-cn.com/problems/permutations/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0046_permute.cpp)
@@ -106,6 +108,7 @@ leetcode repo
 - [0169_majorityElement](https://leetcode-cn.com/problems/majority-element/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0169_majorityElement.cpp)
 - [0189_rotate](https://leetcode-cn.com/problems/rotate-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0189_rotate.cpp)
 - [0238_productExceptSelf](https://leetcode-cn.com/problems/product-of-array-except-self/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0238_productExceptSelf.cpp)
+- [0274_hIndex](https://leetcode-cn.com/problems/h-index/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0274_hIndex.cpp)
 
 ## LinkedList
 - [0002_addTwoNumbers](https://leetcode-cn.com/problems/add-two-numbers/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0002_addTwoNumbers.cpp)
