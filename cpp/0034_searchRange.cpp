@@ -9,45 +9,32 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        auto res = vector<int>(2,-1);
-        if(nums.size()==0)
+        vector<int> res(2,-1);
+        if(nums.size()<1)
             return res;
-
-        int p1 = 0;
-        int p2 = nums.size();
-        int mid = 0;
-        // 查找左边第一个值
-        while(p1<p2)
+        int left=0,right=nums.size();
+        while(left<right)
         {
-            mid = (p1+p2)/2;
-            if(nums[mid]<target)
-                p1 = mid+1;
-            else if(target<=nums[mid])
-                p2 = mid;
+            int mid = left+right>>1;
+            if(nums[mid]>=target)
+                right = mid;
+            else
+                left = mid+1;
         }
-        if(p1<nums.size() && nums[p1]==target)
-            res[0] = p1;
+        if(left<nums.size() && nums[left]==target)
+            res[0] = left;
         if(res[0]==-1)
             return res;
-
-        // 改进：查找右边最后一个值
-        p2 = nums.size()-1;
-        while(p1<p2)
+        right = nums.size()-1;
+        while(left<right)
         {
-            mid = (p1+p2)/2+(p1+p2)%2;
-            if(target<nums[mid])
-                p2 = mid-1;
-            else if(nums[mid]<=target)
-                p1 = mid;  
+            int mid = (left+right)/2+(left+right)%2;
+            if(nums[mid]>target)
+                right = mid-1;
+            else
+                left = mid;
         }
-        res[1]=p2;
-
-        // 原始：右指针向右直到范围无法扩大
-        // p2 = p1;
-        // while(p2<nums.size()-1 && nums[p2]==nums[p2+1])
-        //     p2++;
-        // res[0]=p1;res[1]=p2;
-
+        res[1] = left;
         return res;
     }
 };
