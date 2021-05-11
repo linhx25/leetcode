@@ -1,7 +1,6 @@
 # leetcode
 leetcode repo
 
-
 ## Tree
 - [0094_inorderTraversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0094_inorderTraversal.cpp)
 - [0098_isValidBST](https://leetcode-cn.com/problems/validate-binary-search-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0098_isValidBST.cpp)
@@ -26,6 +25,8 @@ leetcode repo
 ## Hash(Dictionary)
 - [0001_twoSum](https://leetcode-cn.com/problems/two-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0001_twoSum.cpp)
 - [0041_firstMissingPositive](https://leetcode-cn.com/problems/first-missing-positive/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0041_firstMissingPositive.cpp)
+- [0242_isAnagram](https://leetcode-cn.com/problems/valid-anagram/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0242_isAnagram.cpp)
+- [0387_firstUniqChar](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0387_firstUniqChar.cpp)
 - [0448_findDisappearedNumbers](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0448_findDisappearedNumbers.cpp)
 - [0697_findShortestSubArray](https://leetcode-cn.com/problems/degree-of-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0697_findShortestSubArray.cpp)
 
