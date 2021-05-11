@@ -1,9 +1,11 @@
 # leetcode
 leetcode repo
 
+
 ## Tree
 - [0094_inorderTraversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0094_inorderTraversal.cpp)
 - [0098_isValidBST](https://leetcode-cn.com/problems/validate-binary-search-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0098_isValidBST.cpp)
+- [0101_isSymmetric](https://leetcode-cn.com/problems/symmetric-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0101_isSymmetric.cpp)
 - [0102_levelOrder](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0102_levelOrder.cpp)
 - [0103_zigzagLevelOrder](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0103_zigzagLevelOrder.cpp)
 - [0104_maxDepth](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0104_maxDepth.cpp)
