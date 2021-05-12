@@ -29,6 +29,7 @@ leetcode repo
 - [0290_wordPattern](https://leetcode-cn.com/problems/word-pattern/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0290_wordPattern.cpp)
 - [0387_firstUniqChar](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0387_firstUniqChar.cpp)
 - [0448_findDisappearedNumbers](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0448_findDisappearedNumbers.cpp)
+- [0560_subarraySum](https://leetcode-cn.com/problems/subarray-sum-equals-k/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0560_subarraySum.cpp)
 - [0697_findShortestSubArray](https://leetcode-cn.com/problems/degree-of-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0697_findShortestSubArray.cpp)
 
 ## Binary Search
