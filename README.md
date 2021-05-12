@@ -26,6 +26,7 @@ leetcode repo
 - [0001_twoSum](https://leetcode-cn.com/problems/two-sum/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0001_twoSum.cpp)
 - [0041_firstMissingPositive](https://leetcode-cn.com/problems/first-missing-positive/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0041_firstMissingPositive.cpp)
 - [0242_isAnagram](https://leetcode-cn.com/problems/valid-anagram/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0242_isAnagram.cpp)
+- [0290_wordPattern](https://leetcode-cn.com/problems/word-pattern/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0290_wordPattern.cpp)
 - [0387_firstUniqChar](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0387_firstUniqChar.cpp)
 - [0448_findDisappearedNumbers](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0448_findDisappearedNumbers.cpp)
 - [0697_findShortestSubArray](https://leetcode-cn.com/problems/degree-of-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0697_findShortestSubArray.cpp)
@@ -132,4 +133,5 @@ leetcode repo
 - [0013_romanToInt](https://leetcode-cn.com/problems/roman-to-integer/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0013_romanToInt.cpp)
 - [0062_uniquePaths](https://leetcode-cn.com/problems/unique-paths/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0062_uniquePaths.cpp)
 - [0119_getRow](https://leetcode-cn.com/problems/pascals-triangle-ii/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0119_getRow.cpp)
+- [1310_xorQueries](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1310_xorQueries.cpp)
 - [1486_xorOperation](https://leetcode-cn.com/problems/xor-operation-in-an-array/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1486_xorOperation.cpp)
