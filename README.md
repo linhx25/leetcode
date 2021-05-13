@@ -83,6 +83,7 @@ leetcode repo
 - [0714_maxProfit](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0714_maxProfit.cpp)
 - [0746_minCostClimbingStairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0746_minCostClimbingStairs.cpp)
 - [1143_longestCommonSubsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1143_longestCommonSubsequence.cpp)
+- [1269_numWays](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/1269_numWays.cpp)
 
 ## Backtrack
 - [0017_letterCombinations](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) - [SLN](https://github.com/linhx25/leetcode/blob/main/cpp/0017_letterCombinations.cpp)
