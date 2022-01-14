@@ -1,7 +1,7 @@
 // 把小值放在大值左边就做减法， 否则做加法
 class Solution {
 public:
-    int 0013_romanToInt(string s) {
+    int romanToInt(string s) {
         int res=0;
         int pre = getValue(s[0]);
         for(int i=1;i<s.length();i++)
