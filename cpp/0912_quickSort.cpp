@@ -28,6 +28,6 @@ public:
         }
         swap(nums[slow],nums[right]);
         quickSort(nums,slow+1,right);
-        quickSort(nums,left,slows-1);
+        quickSort(nums,left,slow-1);
     }
 };
